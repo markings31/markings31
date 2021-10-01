@@ -1,6 +1,6 @@
 ### Hi there, I'm Markings!
 
-I'm a Java developer who specializes in creating Minecraft plugins and servers for server owners and developers. As a former server owner myself, I enjoy providing quality services to those in the Minecraft community.
+I'm a Java developer who specializes in creating Minecraft plugins for server owners and developers. As a former server owner myself, I enjoy providing quality services to those in the Minecraft community.
 
 I am currently working on an all-in-one notifications tool called Bubble (keep posted on my MC-Market page :wink:).
 
